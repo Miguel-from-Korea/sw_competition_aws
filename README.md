@@ -1,0 +1,1 @@
+# sw_competition_aws
