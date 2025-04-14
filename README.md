@@ -29,8 +29,8 @@ deepracer-autosar-race/
 ├── docs/                 # Reports and documentation
 ├── scripts/              # Optional setup helpers
 
+![aws1](https://github.com/user-attachments/assets/4b383946-e030-4538-a964-7eca2073c8e7)
 
-![aws1](https://github.com/user-attachments/assets/bf2883bd-705c-4c4c-9a59-11bbdb86c68e)
 
 ## 🏁 Getting Started
 
@@ -44,11 +44,3 @@ source install/setup.bash
 ros2 run inference_node inference_node
 ```
 
-## 📄 Docs
-
-- [개발 계획서 보기](docs/Dev_Plan_Autosar_Race.pdf)
-
-## 👥 Team
-
-- ROS2 Developer: A 
-- AUTOSAR Developer: B
